@@ -1,0 +1,20 @@
+﻿ !TODO:
+		1. Pasar de localstorage a Firebase
+		2. Agregar un cargando en la tabla cuando cambia el state
+		3. Agregar validacion formularios (Login, NewUser, NewAdmin)
+		4. Guardar password con HASH https://www.npmjs.com/package/bcryptjs
+		5. Login validar correo y password
+		6. Pantalla registrar Admin (Nuevo equipo) incluido validador de formularios
+		7. Publicar 
+ 8. Pasar a Typescript ? No se si vale la pena
+ 9. Usuario y contraseña para FireBase (Variable del sitio)
+ 10. Config genera un codigo de invitación y setea ADMIN (solo el admin ve config)
+ 11. Registro usuario por invitacion (no ve config)
+ 12. Ajustar responsive Celular
+ 13. Publicar
+ 14. Lista de espera
+ 15. Refactorizar Styled Components 
+ 16. Envio correo cuando sale de la lista de espera
+ 17. Dashboard metricas
+ 18. Pasar a Typescript
+ 19. Publicar
